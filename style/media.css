@@ -1,0 +1,272 @@
+
+@media (min-width: 0) and (max-width: 1440px) {
+
+}
+
+@media (min-width: 0) and (max-width: 1366px) {
+
+
+}
+
+@media (min-width: 0) and (max-width: 1199px) {
+
+    .main_menu ul li a{
+        font-size: 14px;
+        margin-left: 15px;
+    }
+
+    .in_title{
+        font-size: 80px;
+    }
+
+}
+
+@media (min-width: 0) and (max-width: 991px) {
+
+    .main_menu ul li a{
+        font-size: 14px;
+        margin-left: 15px;
+    }
+
+    .main_menu{
+        display: none;
+    }
+
+    .menu_icon{
+        display: block;
+        z-index: 6;
+    }
+
+    
+
+    .phone_action{
+        display: block;
+    }
+
+    .in_title{
+        font-size: 60px;
+    }
+
+    .hero_section img{
+        max-width: 50%;
+    }
+
+    .about_list{
+        justify-content: space-around;
+    }
+
+    .testimonials{
+        padding-left: 9%;
+        padding-right: 9%;
+    }
+
+    .owl-carousel .owl-nav{
+        bottom:-12%;
+    }
+
+    .owl-theme .owl-dots{
+        bottom: -12%;
+    }
+
+    .slider_item_unit{
+        padding: 40px 45px;
+    }
+    
+}
+
+@media (min-width: 0) and (max-width: 767px) {
+
+    .logo{
+        margin-top: 12px;
+    }    
+
+    .hero_section img{
+        max-width: 80%;
+    }
+
+    .in_title{
+        font-size: 47px;
+    }
+    
+    .footer_addr{
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 0) and (max-width: 575px) {
+
+    .logo img{
+        max-width: 107px;
+        margin-top: 0px;
+    }
+
+    .main_header{
+        min-height: 60px;
+    }
+
+    .hero_section{
+        height: calc(100vh - 60px);
+    }
+
+    .about_title{
+        padding-top: 50px;
+    }
+
+    .in_title{
+        font-size: 27px;    
+    }
+
+    .out_title{
+        font-size: 18px;
+    }
+
+    .about_subtitle{
+        margin-top: 30px;
+        font-size: 14px;
+    }
+
+    .about_content{
+        font-size: 14px;
+        margin-top: 26px;
+    }
+
+    .about_list{
+        margin-top: 30px;
+    }
+
+    .about_item{
+        max-width: 285px;
+        height: 200px;
+    }
+
+    .about_item_number{
+        font-size: 50px;
+    }
+
+    .about_item_text{
+        font-size: 12px;
+        margin-top: 15px;
+    }
+
+    .sub_text{
+        display: none;
+    }
+
+    .about_logo{
+        height: 77px;
+    }
+
+    .about_logo:before{
+        width: 71px;
+        height: 72px;
+        top:48%;
+    }
+
+    .about_logo:after{
+        width: 23px;
+        height: 27px;
+        bottom: -15px;
+    }
+
+    .testimonials_sections{
+        padding-top: 90px;
+    }
+
+    .testimonials{
+        padding-top: 72px;
+        padding-bottom: 110px;
+    }
+
+    .slider_item_unit {
+        padding: 40px 30px;
+    }
+
+    .item_unit_name{
+        font-size: 16px;
+    }
+
+    .item_unit_position{
+        font-size: 16px;
+    }
+
+    .item_unit_text{
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .input_line{
+        max-width: 100%;
+        margin-bottom: 40px;
+    }
+    
+
+    .input_wrap{
+        flex-wrap: wrap;
+        margin: 0px;
+    }
+
+    .input_line input{
+        font-size: 14px;
+    }
+
+    .input_msg textarea{
+        font-size: 14px;
+    }
+
+    .form_wrapper{
+        margin-top: 40px;
+    }
+
+    .input_msg{
+        margin-bottom: 40px;
+    }
+   
+    .form_btn{
+        width: 177px;
+        height: 56px;
+        font-size: 16px;
+    }
+
+    footer{
+        margin-top: 40px;
+    }
+
+    .footer_logo{
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .footer_addr{
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .footer_mail{
+        font-size: 16px;
+    }
+
+    .copy{
+        margin-top: 50px;
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
+    .owl-carousel .owl-nav{
+        justify-content: space-between;
+    }
+
+    .menu_icon{
+        top:5px;
+    }
+}
+
+@media (min-width: 0) and (max-width: 479px) {
+
+
+}
+
+@media (min-width: 0) and (max-width: 360px) {
+    
+}
+
+
